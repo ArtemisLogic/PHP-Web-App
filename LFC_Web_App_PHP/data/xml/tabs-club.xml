@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+  <Tab>
+    <tabid>history</tabid>
+    <tabname>Club History</tabname>
+    <content_href>tab-club1.part.html</content_href>
+    <content>
+    Since they were founded in 1892, the Liverpool Football Club name was synonymous with fame and glory. Both domestically and internationally, Liverpool is the most successful British club of all time; they have won 18 League titles, 8 League Cups, 7 FA Cups, 5 European Cups and 3 UEFA Cups. They are one of the most popular football teams in the world, with over 200 supporter clubs in at least 50 different countries. And yet, their magnificent history will forever be plagued by two of the worst stadium disasters of all time: Heysel and Hillsborough. 
+    Following the moving of Everton to Goodison Park in 1892, the club's then-president John Houlding suddenly found himself with the rights to Anfield stadium and no team to play on it. Always a practical man, Houlding quickly decided to circumvent this problem by forming his own club – Liverpool (should not be confused Liverpool Ramblers AFC that was founded ten years earlier). 
+    In 1985, Liverpool faced Juventus in the European Cup final. Unfortunately, that match is now widely known as the scene of the Heysel disaster; after some unruly fans caused a perimeter wall to collapse, 39 fans were crushed to death. In the aftermath, considering the blame for the accident was placed solely on Liverpool fans, all English clubs were banned from European competitions for the next five years.
+    As it turned out, this extraordinary victory was the club's swan song. During the next decade, Liverpool were mostly seen playing second fiddle to other English clubs, with only two Cup trophies and a second-place league finish to show for their efforts.
+    
+    </content>
+  </Tab>
+  <Tab>
+    <tabid>season</tabid>
+    <tabname>2018-19 Season</tabname>
+    <content_href>tab-club2.part.html</content_href>
+    <content>Champions League</content>
+  </Tab>
+</Tabs>

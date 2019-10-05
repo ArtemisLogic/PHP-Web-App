@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <heading>Team Information</heading>
+    <tagline>Click below to find out who is behind LFC.</tagline>
+    <storyimg_href>staff/rsz_john-henry.jpg</storyimg_href>
+    <content> </content>
+    <article_href>article1.part.html</article_href>
+    <summary>LFC Team and Management</summary>
+    <link>clubinfo.php</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  <Article>
+    <heading>News Portal</heading>
+    <tagline>Click below to access our news articles.</tagline>
+    <storyimg_href>news/rsz_news.jpg</storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary>Liverpool News Portal</summary>
+    <link>news.php</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+</Articles>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KeyPlayerItems>
+	<KeyPlayer>
+		<name>Mohamed Salah</name>
+		<key_href>salah</key_href>
+		<desc>Star forward</desc>
+	</KeyPlayer>
+	<KeyPlayer>
+		<name>Virgil van Dijk</name>
+		<key_href>van Dijk</key_href>
+		<desc>Star defender</desc>
+	</KeyPlayer>
+	<KeyPlayer>
+		<name>Jordan Henderson</name>
+		<key_href>henderson</key_href>
+		<desc>Captain</desc>
+	</KeyPlayer>
+</KeyPlayerItems>
